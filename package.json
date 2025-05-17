@@ -36,7 +36,7 @@
   },
   "scripts": {    
     "build": "react-scripts --openssl-legacy-provider build",
-    "start": "react-scripts --openssl-legacy-provider start serve"
+    "start": "react-scripts --openssl-legacy-provider start"
   },
   "eslintConfig": {
     "extends": [
